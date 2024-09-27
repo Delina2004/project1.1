@@ -4,7 +4,7 @@ Author: Delina Merhay
 
 Project Objective
 
-My project proposal is to implement a Student Grade Manager, where each student is represented by a name, randomly generated ID, and grades. The system will store multiple students in an array and provide functions for user input of student details and grades (for multiple subjects or assignments). It will calculate and display individual average grades for each student and optionally calculate the overall average grade for all students in each subject. It will demonstrate key C++ concepts like arrays, functions, control structures, and input/output operations, etc.
+The Student Grade Manager is a C++ program designed to efficiently manage and analyze student grades. It provides a user-friendly interface for inputting student information, including names and grades for multiple subjects, and generates random student IDs. The system calculates and displays individual average grades for each student as well as the overall average grade for all students in each subject.
 
 Key Features
 
@@ -44,7 +44,9 @@ How to Use
    
 
    Usage Example
-   
+
+   ![image](https://github.com/user-attachments/assets/f0d93e5f-dc75-4e49-8013-bb3d0f7e6676)
+
 
 How many students do you want to enter? 2
 
