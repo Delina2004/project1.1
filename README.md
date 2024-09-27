@@ -25,9 +25,20 @@ Capacity to manage up to 100 students
 
 Technology used
 
+
 C++
 
 
 How to Use
+
+1. Compile the C++ program using a c++ compiler(visual studio).
+  
+2. Run the compiled executable.
+  
+3. Enter the number of students you want to manage.
+   
+4. For each student, enter their name and grades for each subject.
+
+5. The program will display the individual student averages and overall subject averages.
 
 
