@@ -45,49 +45,11 @@ How to Use
 
    Usage Example
 
-   ![image](https://github.com/user-attachments/assets/a3e2fdc0-aece-4a9e-86fd-fc169e26ab8d)
+   ![image](https://github.com/user-attachments/assets/c6b438bf-7eda-4b1c-bca0-8b62b66a3a17)
 
 
 
-How many students do you want to enter? 2
 
-Entering details for student 1:
-
-Enter student name: Alice
-
-Enter grades for 3 subjects (0 - 100):
-
-Subject 1: 85
-
-Subject 2: 90
-
-Subject 3: 88
-
-Entering details for student 2:
-
-Enter student name: Bob
-
-Enter grades for 3 subjects (0 - 100):
-
-Subject 1: 75
-
-Subject 2: 80
-
-Subject 3: 79
-
-Student Averages:
-
-Alice (ID: 5732): 87.67
-
-Bob (ID: 4910): 78.00
-
-Overall subject averages:
-
-Subject 1: 80.00
-
-Subject 2: 85.00
-
-Subject 3: 83.50
 
 Contact
 
