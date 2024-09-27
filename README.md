@@ -22,9 +22,11 @@ Input validation for grades (0-100 range)
 
 Capacity to manage up to 100 students
 
+
 Technology used
 
 C++
+
 
 How to Use
 
