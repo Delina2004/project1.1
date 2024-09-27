@@ -43,7 +43,7 @@ How to Use
 5. The program will display the individual student averages and overall subject averages.
    
 
-   Usage Example
+   Usage Example and Screenshot
 
    ![image](https://github.com/user-attachments/assets/c6b438bf-7eda-4b1c-bca0-8b62b66a3a17)
 
