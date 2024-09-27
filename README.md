@@ -45,7 +45,8 @@ How to Use
 
    Usage Example
 
-   ![image](https://github.com/user-attachments/assets/f0d93e5f-dc75-4e49-8013-bb3d0f7e6676)
+   ![image](https://github.com/user-attachments/assets/a3e2fdc0-aece-4a9e-86fd-fc169e26ab8d)
+
 
 
 How many students do you want to enter? 2
