@@ -9,11 +9,18 @@ My project proposal is to implement a Student Grade Manager, where each student 
 Key Features
 
 Input and storage of student details (name, ID, grades)
+
 Random generation of 4-digit student IDs
+
 Support for multiple subjects (currently set to 3, easily adjustable)
+
 Calculation of individual student grade averages
+
 Calculation of overall subject averages across all students
+
 Input validation for grades (0-100 range)
+
 Capacity to manage up to 100 students
+
 
 
