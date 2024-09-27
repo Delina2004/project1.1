@@ -41,4 +41,34 @@ How to Use
 
 5. The program will display the individual student averages and overall subject averages.
 
+   Usage Example
+   
+
+How many students do you want to enter? 2
+
+Entering details for student 1:
+Enter student name: Alice
+Enter grades for 3 subjects (0 - 100):
+Subject 1: 85
+Subject 2: 90
+Subject 3: 88
+
+Entering details for student 2:
+Enter student name: Bob
+Enter grades for 3 subjects (0 - 100):
+Subject 1: 75
+Subject 2: 80
+Subject 3: 79
+
+Student Averages:
+Alice (ID: 5732): 87.67
+Bob (ID: 4910): 78.00
+
+Overall subject averages:
+Subject 1: 80.00
+Subject 2: 85.00
+Subject 3: 83.50
+
+   
+
 
