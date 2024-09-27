@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 #include <cstdlib> // for random numbers
-#include <ctime>   // for time (to seed random)
-#include <iomanip> // for formatting output
+#include <ctime>   // for time
+#include <iomanip> // for formatting output 
 using namespace std;
 
 const int NUM_SUBJECTS = 3; // Constant for the number of subjects
