@@ -40,6 +40,7 @@ How to Use
 4. For each student, enter their name and grades for each subject.
 
 5. The program will display the individual student averages and overall subject averages.
+   
 
    Usage Example
    
@@ -84,6 +85,9 @@ Subject 2: 85.00
 
 Subject 3: 83.50
 
+Contact
+
+For any suggestions, please contact Delina Merhay at delinayemane2004@gmail.com.
    
 
 
