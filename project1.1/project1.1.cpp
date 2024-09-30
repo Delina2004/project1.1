@@ -13,11 +13,11 @@ struct Student {
     string name;
     int studentID;
     float grades[NUM_SUBJECTS]; // Fixed-size array to store grades for each subject
-};
+}
 
-// Function to generate a random student ID
+// Function to generate a random student ID with 4 4-digit
 int generateRandomID() {
-    return rand() % 9000 + 1000; // Generates a random 4-digit ID
+    return rand() % 9000 + 1000; 
 }
 
 // Function to input student details
