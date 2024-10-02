@@ -48,8 +48,9 @@ How to Use
    ![image](https://github.com/user-attachments/assets/c6b438bf-7eda-4b1c-bca0-8b62b66a3a17)
 
 
+Link For Zoom record
 
-
+https://us05web.zoom.us/clips/share/8NZWjQABQcsDsVUgxcjYAe3NR69r0vvA0mKmOd1uastIAj7_u57Ov3207kZUP6oNnPkjpu_LOHinPl8HDEJ5Ck5C9Q.-t64NaesCkF7ODZt
 
 Contact
 
