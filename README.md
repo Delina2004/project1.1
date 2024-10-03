@@ -50,7 +50,7 @@ How to Use
 
 Link For Zoom record
 
-https://us05web.zoom.us/clips/share/8NZWjQABQcsDsVUgxcjYAe3NR69r0vvA0mKmOd1uastIAj7_u57Ov3207kZUP6oNnPkjpu_LOHinPl8HDEJ5Ck5C9Q.-t64NaesCkF7ODZt
+https://drive.google.com/file/d/1xwmeS1JqxTwNXzQAQIOe-3TMvAuk0nn8/view?usp=drive_link
 
 Contact
 
